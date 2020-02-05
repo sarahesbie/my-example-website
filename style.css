@@ -1,0 +1,22 @@
+html {
+  width: 70%;
+  margin: 0 auto;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+}
+
+h1 {
+  text-transform: capitalize;
+  color: blue;
+}
+
+img {
+  width: 100%;
+}
+
+section {
+  flex-basis: 50%;
+}
